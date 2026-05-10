@@ -1,4 +1,3 @@
-```md
 # Images to PPT Converter
 
 Convert a sequence of images into a clean PowerPoint presentation automatically using Python.
@@ -96,16 +95,16 @@ pip install python-pptx
 
 3. Run the script:
 
-```bash
+
 python images_to_ppt.py
-```
+
 
 4. The output file will be generated as:
 
 
 USB_Presentation_M_Hassan_Ali.pptx
 
----
+
 
 ## Example Use Case
 
