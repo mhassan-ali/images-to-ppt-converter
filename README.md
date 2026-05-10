@@ -5,7 +5,7 @@ Convert a sequence of images into a clean PowerPoint presentation automatically 
 
 This project was used to generate a 15-slide presentation from JPEG images for a Computer Organization & Architecture assignment.
 
----
+
 
 ## Author
 
@@ -149,4 +149,3 @@ Possible future upgrades:
 ## License
 
 This project is for educational and personal use.
-```
